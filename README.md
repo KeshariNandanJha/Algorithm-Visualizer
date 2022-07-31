@@ -1,5 +1,10 @@
+
 # Algorithm-Visualizer
+
 A Website to visualize the different sorting algorithms using javaScript :-
+
+
+
     1. Bubble Sort.
     2. Selection Sort.
     3. Insertion Sort.
@@ -7,4 +12,5 @@ A Website to visualize the different sorting algorithms using javaScript :-
     5. Quick Sort.
 
 ## Link
-https://kesharinandanjha.github.io/Algorithm-Visualizer/
+[Visit Website]
+(https://kesharinandanjha.github.io/Algorithm-Visualizer/)
