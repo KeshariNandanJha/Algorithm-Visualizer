@@ -11,6 +11,6 @@ A Website to visualize the different sorting algorithms using javaScript :-
     4. Merge Sort.
     5. Quick Sort.
 
-## Link
+Links
 [Visit Website]
 (https://kesharinandanjha.github.io/Algorithm-Visualizer/)
